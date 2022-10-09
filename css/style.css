@@ -14,9 +14,9 @@
        }
 
 .header_link{
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 14px;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 18px;
 /* identical to box height, or 100% */
     color: #1C1C1C;
     text-decoration: none;
@@ -124,9 +124,9 @@
     Height:21px;
    }
 .footer_link{
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 14px;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 18px;
 /* identical to box height, or 100% */
     color: #f8f1f1;
     text-decoration: none;
